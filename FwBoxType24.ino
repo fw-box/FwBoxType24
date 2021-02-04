@@ -15,10 +15,10 @@
 
 
 #define DEVICE_TYPE 24
-#define FIRMWARE_VERSION "1.0.0"
+#define FIRMWARE_VERSION "1.0.2"
 
 #define VAL_INDEX_LED 0
-
+bb
 
 //
 // Debug definitions
