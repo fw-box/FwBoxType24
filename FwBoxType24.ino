@@ -18,7 +18,6 @@
 #define FIRMWARE_VERSION "1.1.1"
 
 #define VAL_INDEX_LED 0
-bb
 
 //
 // Debug definitions
