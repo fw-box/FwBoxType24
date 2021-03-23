@@ -15,7 +15,7 @@
 
 
 #define DEVICE_TYPE 24
-#define FIRMWARE_VERSION "1.1.13"
+#define FIRMWARE_VERSION "1.1.14"
 
 #define VAL_INDEX_LED 0
 
