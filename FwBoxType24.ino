@@ -15,7 +15,7 @@
 
 
 #define DEVICE_TYPE 24
-#define FIRMWARE_VERSION "1.1.22"
+#define FIRMWARE_VERSION "1.1.23"
 
 #define VAL_INDEX_LED 0
 
@@ -44,7 +44,7 @@
 void setup()
 {
   Wire.begin();
-  Serial.begin(9600);
+  Serial.begin(115200);
 
   pinMode(LED_BUILTIN, OUTPUT);
 
